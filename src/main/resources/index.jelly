@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  Runs a bash script before an EC2 instance comes online.
+</div>
